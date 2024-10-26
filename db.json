@@ -1,875 +1,1701 @@
 {
-    "products": [
+  "products": [
+    {
+      "id": 6832242294878,
+      "title": "The Collection Snowboard: Liquid",
+      "handle": "the-collection-snowboard-liquid",
+      "body_html": null,
+      "published_at": "2023-10-09T10:11:03-04:00",
+      "created_at": "2023-10-09T10:11:02-04:00",
+      "updated_at": "2024-10-26T10:21:49-04:00",
+      "vendor": "Hydrogen Vendor",
+      "product_type": "",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "variants": [
         {
-            "id": 6832242294878,
-            "title": "The Collection Snowboard: Liquid",
-            "handle": "the-collection-snowboard-liquid",
-            "body_html": null,
-            "published_at": "2023-10-09T10:11:03-04:00",
-            "created_at": "2023-10-09T10:11:02-04:00",
-            "updated_at": "2024-10-26T08:37:15-04:00",
-            "vendor": "Hydrogen Vendor",
-            "product_type": "",
-            "tags": [
-                "Accessory",
-                "Sport",
-                "Winter"
-            ],
-            "variants": [
-                {
-                    "id": 40097623146590,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "749.95",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 6832242294878,
-                    "created_at": "2023-10-09T10:11:02-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 29962110795870,
-                    "created_at": "2023-10-09T10:11:02-04:00",
-                    "position": 1,
-                    "updated_at": "2023-10-09T10:11:02-04:00",
-                    "product_id": 6832242294878,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1696860662",
-                    "width": 1600,
-                    "height": 1600
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 6832242229342,
-            "title": "The Collection Snowboard: Oxygen",
-            "handle": "the-collection-snowboard-oxygen",
-            "body_html": null,
-            "published_at": "2023-10-09T10:11:03-04:00",
-            "created_at": "2023-10-09T10:10:59-04:00",
-            "updated_at": "2024-10-26T08:37:15-04:00",
-            "vendor": "Hydrogen Vendor",
-            "product_type": "",
-            "tags": [
-                "Accessory",
-                "Sport",
-                "Winter"
-            ],
-            "variants": [
-                {
-                    "id": 40097623015518,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "1025.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 6832242229342,
-                    "created_at": "2023-10-09T10:10:59-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 29962110664798,
-                    "created_at": "2023-10-09T10:10:59-04:00",
-                    "position": 1,
-                    "updated_at": "2023-10-09T10:10:59-04:00",
-                    "product_id": 6832242229342,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1696860659",
-                    "width": 1600,
-                    "height": 1600
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 6832241868894,
-            "title": "The Collection Snowboard: Hydrogen",
-            "handle": "the-collection-snowboard-hydrogen",
-            "body_html": null,
-            "published_at": "2023-10-09T10:11:02-04:00",
-            "created_at": "2023-10-09T10:10:58-04:00",
-            "updated_at": "2024-10-26T08:37:15-04:00",
-            "vendor": "Hydrogen Vendor",
-            "product_type": "",
-            "tags": [
-                "Accessory",
-                "Sport",
-                "Winter"
-            ],
-            "variants": [
-                {
-                    "id": 40441553813598,
-                    "title": "white",
-                    "option1": "white",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": {
-                        "id": 30328475615326,
-                        "product_id": 6832241868894,
-                        "position": 3,
-                        "created_at": "2024-03-05T06:56:42-05:00",
-                        "updated_at": "2024-03-05T06:56:44-05:00",
-                        "alt": null,
-                        "width": 1000,
-                        "height": 1000,
-                        "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-White-Base_2048x2048_884474df-9d63-42fd-8b1c-1ffea2866abf.jpg?v=1709639804",
-                        "variant_ids": [
-                            40441553813598
-                        ]
-                    },
-                    "available": true,
-                    "price": "600.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 2,
-                    "product_id": 6832241868894,
-                    "created_at": "2024-03-05T06:57:34-05:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                },
-                {
-                    "id": 40441553846366,
-                    "title": "orange",
-                    "option1": "orange",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": {
-                        "id": 30328475648094,
-                        "product_id": 6832241868894,
-                        "position": 2,
-                        "created_at": "2024-03-05T06:56:42-05:00",
-                        "updated_at": "2024-03-05T06:56:44-05:00",
-                        "alt": null,
-                        "width": 1000,
-                        "height": 1000,
-                        "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-Orange-Base_2048x2048_33650e65-76b3-4c7a-8b43-663fe2a7192a.jpg?v=1709639804",
-                        "variant_ids": [
-                            40441553846366
-                        ]
-                    },
-                    "available": false,
-                    "price": "600.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 3,
-                    "product_id": 6832241868894,
-                    "created_at": "2024-03-05T06:57:34-05:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                },
-                {
-                    "id": 40441553879134,
-                    "title": "purple",
-                    "option1": "purple",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": {
-                        "id": 29962110271582,
-                        "product_id": 6832241868894,
-                        "position": 1,
-                        "created_at": "2023-10-09T10:10:58-04:00",
-                        "updated_at": "2023-10-09T10:10:58-04:00",
-                        "alt": "Top and bottom view of a snowboard. The top view shows stylized hydrogen bonds and the bottom view\n        shows “H2” in a brush script typeface.",
-                        "width": 1600,
-                        "height": 1600,
-                        "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1696860658",
-                        "variant_ids": [
-                            40441553879134
-                        ]
-                    },
-                    "available": false,
-                    "price": "600.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 4,
-                    "product_id": 6832241868894,
-                    "created_at": "2024-03-05T06:57:34-05:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 29962110271582,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "position": 1,
-                    "updated_at": "2023-10-09T10:10:58-04:00",
-                    "product_id": 6832241868894,
-                    "variant_ids": [
-                        40441553879134
-                    ],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1696860658",
-                    "width": 1600,
-                    "height": 1600
-                },
-                {
-                    "id": 30328475648094,
-                    "created_at": "2024-03-05T06:56:42-05:00",
-                    "position": 2,
-                    "updated_at": "2024-03-05T06:56:44-05:00",
-                    "product_id": 6832241868894,
-                    "variant_ids": [
-                        40441553846366
-                    ],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-Orange-Base_2048x2048_33650e65-76b3-4c7a-8b43-663fe2a7192a.jpg?v=1709639804",
-                    "width": 1000,
-                    "height": 1000
-                },
-                {
-                    "id": 30328475615326,
-                    "created_at": "2024-03-05T06:56:42-05:00",
-                    "position": 3,
-                    "updated_at": "2024-03-05T06:56:44-05:00",
-                    "product_id": 6832241868894,
-                    "variant_ids": [
-                        40441553813598
-                    ],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-White-Base_2048x2048_884474df-9d63-42fd-8b1c-1ffea2866abf.jpg?v=1709639804",
-                    "width": 1000,
-                    "height": 1000
-                }
-            ],
-            "options": [
-                {
-                    "name": "Color",
-                    "position": 1,
-                    "values": [
-                        "white",
-                        "orange",
-                        "purple"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 6832242196574,
-            "title": "The 3p Fulfilled Snowboard",
-            "handle": "the-3p-fulfilled-snowboard",
-            "body_html": null,
-            "published_at": "2023-10-09T10:11:00-04:00",
-            "created_at": "2023-10-09T10:10:59-04:00",
-            "updated_at": "2024-10-26T08:37:15-04:00",
-            "vendor": "Quickstart (e2b0e499)",
-            "product_type": "",
-            "tags": [
-                "Accessory",
-                "Sport",
-                "Winter"
-            ],
-            "variants": [
-                {
-                    "id": 40097622982750,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "sku-hosted-1",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "2629.95",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 6832242196574,
-                    "created_at": "2023-10-09T10:10:59-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 29962110632030,
-                    "created_at": "2023-10-09T10:10:59-04:00",
-                    "position": 1,
-                    "updated_at": "2023-10-09T10:10:59-04:00",
-                    "product_id": 6832242196574,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1696860659",
-                    "width": 1600,
-                    "height": 1600
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 6832242163806,
-            "title": "The Multi-managed Snowboard",
-            "handle": "the-multi-managed-snowboard",
-            "body_html": "\u003Cspan\u003EThe 2025 GNU B-Nice makes that learning curve a learning LAUNCH, featuring the original banana shape that’s great for learning, jibbing, and floating catch-free\u003C/span\u003E",
-            "published_at": "2023-10-09T10:10:59-04:00",
-            "created_at": "2023-10-09T10:10:59-04:00",
-            "updated_at": "2024-10-26T08:37:15-04:00",
-            "vendor": "Multi-managed Vendor",
-            "product_type": "",
-            "tags": [
-                "Premium",
-                "Snow",
-                "Snowboard",
-                "Sport",
-                "Winter"
-            ],
-            "variants": [
-                {
-                    "id": 40097622949982,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "sku-managed-1",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "629.95",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 6832242163806,
-                    "created_at": "2023-10-09T10:10:59-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 29962110599262,
-                    "created_at": "2023-10-09T10:10:59-04:00",
-                    "position": 1,
-                    "updated_at": "2023-10-09T10:10:59-04:00",
-                    "product_id": 6832242163806,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1696860659",
-                    "width": 1600,
-                    "height": 1600
-                },
-                {
-                    "id": 30300550135902,
-                    "created_at": "2024-02-24T03:45:06-05:00",
-                    "position": 2,
-                    "updated_at": "2024-02-24T03:45:07-05:00",
-                    "product_id": 6832242163806,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-Orange-Base_2048x2048_39771e90-0b44-4722-b524-e2a8cc86e484.jpg?v=1708764307",
-                    "width": 1000,
-                    "height": 1000
-                },
-                {
-                    "id": 30300550168670,
-                    "created_at": "2024-02-24T03:45:11-05:00",
-                    "position": 3,
-                    "updated_at": "2024-02-24T03:45:13-05:00",
-                    "product_id": 6832242163806,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-White-Base_2048x2048_f6ce0f7c-b7ec-4e14-88be-5f9bdf1c5f3e.jpg?v=1708764313",
-                    "width": 1000,
-                    "height": 1000
-                },
-                {
-                    "id": 30300550332510,
-                    "created_at": "2024-02-24T03:45:16-05:00",
-                    "position": 4,
-                    "updated_at": "2024-02-24T03:45:17-05:00",
-                    "product_id": 6832242163806,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/bnicecamber_2048x2048_561508b5-a51b-4550-a11a-4c495e098e75.jpg?v=1708764317",
-                    "width": 1000,
-                    "height": 1000
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 6832242131038,
-            "title": "The Multi-location Snowboard",
-            "handle": "the-multi-location-snowboard",
-            "body_html": null,
-            "published_at": "2023-10-09T10:10:59-04:00",
-            "created_at": "2023-10-09T10:10:58-04:00",
-            "updated_at": "2024-10-26T08:37:15-04:00",
-            "vendor": "Quickstart (e2b0e499)",
-            "product_type": "",
-            "tags": [
-                "Premium",
-                "Snow",
-                "Snowboard",
-                "Sport",
-                "Winter"
-            ],
-            "variants": [
-                {
-                    "id": 40097622917214,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "729.95",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 6832242131038,
-                    "created_at": "2023-10-09T10:10:59-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 29962110566494,
-                    "created_at": "2023-10-09T10:10:59-04:00",
-                    "position": 1,
-                    "updated_at": "2023-10-09T10:10:59-04:00",
-                    "product_id": 6832242131038,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg?v=1696860659",
-                    "width": 1600,
-                    "height": 1600
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 6832242098270,
-            "title": "The Compare at Price Snowboard",
-            "handle": "the-compare-at-price-snowboard",
-            "body_html": null,
-            "published_at": "2023-10-09T10:10:59-04:00",
-            "created_at": "2023-10-09T10:10:58-04:00",
-            "updated_at": "2024-10-26T08:37:15-04:00",
-            "vendor": "Quickstart (e2b0e499)",
-            "product_type": "",
-            "tags": [
-                "Accessory",
-                "Sport",
-                "Winter"
-            ],
-            "variants": [
-                {
-                    "id": 40097622884446,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "785.95",
-                    "grams": 0,
-                    "compare_at_price": "885.95",
-                    "position": 1,
-                    "product_id": 6832242098270,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 29962110500958,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "position": 1,
-                    "updated_at": "2023-10-09T10:10:58-04:00",
-                    "product_id": 6832242098270,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/snowboard_sky.png?v=1696860658",
-                    "width": 3097,
-                    "height": 3908
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 6832242032734,
-            "title": "The Inventory Not Tracked Snowboard",
-            "handle": "the-inventory-not-tracked-snowboard",
-            "body_html": null,
-            "published_at": "2023-10-09T10:10:59-04:00",
-            "created_at": "2023-10-09T10:10:58-04:00",
-            "updated_at": "2024-10-26T08:37:15-04:00",
-            "vendor": "Quickstart (e2b0e499)",
-            "product_type": "",
-            "tags": [
-                "Accessory",
-                "Sport",
-                "Winter"
-            ],
-            "variants": [
-                {
-                    "id": 40097622523998,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "sku-untracked-1",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "949.95",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 6832242032734,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 29962110402654,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "position": 1,
-                    "updated_at": "2023-10-09T10:10:58-04:00",
-                    "product_id": 6832242032734,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/snowboard_purple_hydrogen.png?v=1696860658",
-                    "width": 3097,
-                    "height": 3908
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 6832241934430,
-            "title": "The Complete Snowboard",
-            "handle": "the-complete-snowboard",
-            "body_html": "This \u003Cb\u003EPREMIUM\u003C/b\u003E \u003Ci\u003Esnowboard\u003C/i\u003E is so \u003Cb\u003ESUPER\u003C/b\u003E\u003Ci\u003EDUPER\u003C/i\u003E awesome!",
-            "published_at": "2023-10-09T10:10:59-04:00",
-            "created_at": "2023-10-09T10:10:58-04:00",
-            "updated_at": "2024-10-26T08:37:15-04:00",
-            "vendor": "Snowboard Vendor",
-            "product_type": "snowboard",
-            "tags": [
-                "Premium",
-                "Snow",
-                "Snowboard",
-                "Sport",
-                "Winter"
-            ],
-            "variants": [
-                {
-                    "id": 40097622491230,
-                    "title": "Ice",
-                    "option1": "Ice",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "699.95",
-                    "grams": 4536,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 6832241934430,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                },
-                {
-                    "id": 40097622556766,
-                    "title": "Dawn",
-                    "option1": "Dawn",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "699.95",
-                    "grams": 4536,
-                    "compare_at_price": null,
-                    "position": 2,
-                    "product_id": 6832241934430,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                },
-                {
-                    "id": 40097622622302,
-                    "title": "Powder",
-                    "option1": "Powder",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "699.95",
-                    "grams": 4536,
-                    "compare_at_price": null,
-                    "position": 3,
-                    "product_id": 6832241934430,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                },
-                {
-                    "id": 40097622655070,
-                    "title": "Electric",
-                    "option1": "Electric",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "699.95",
-                    "grams": 4536,
-                    "compare_at_price": null,
-                    "position": 4,
-                    "product_id": 6832241934430,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                },
-                {
-                    "id": 40097622687838,
-                    "title": "Sunset",
-                    "option1": "Sunset",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "699.95",
-                    "grams": 4536,
-                    "compare_at_price": null,
-                    "position": 5,
-                    "product_id": 6832241934430,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 29962110337118,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "position": 1,
-                    "updated_at": "2023-10-09T10:10:58-04:00",
-                    "product_id": 6832241934430,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1696860658",
-                    "width": 1600,
-                    "height": 1600
-                }
-            ],
-            "options": [
-                {
-                    "name": "Color",
-                    "position": 1,
-                    "values": [
-                        "Ice",
-                        "Dawn",
-                        "Powder",
-                        "Electric",
-                        "Sunset"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 6832241901662,
-            "title": "The Out of Stock Snowboard",
-            "handle": "the-out-of-stock-snowboard",
-            "body_html": null,
-            "published_at": "2023-10-09T10:10:58-04:00",
-            "created_at": "2023-10-09T10:10:58-04:00",
-            "updated_at": "2024-10-26T08:37:15-04:00",
-            "vendor": "Quickstart (e2b0e499)",
-            "product_type": "",
-            "tags": [
-                "Accessory",
-                "Sport",
-                "Winter"
-            ],
-            "variants": [
-                {
-                    "id": 40097622458462,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "885.95",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 6832241901662,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 29962110304350,
-                    "created_at": "2023-10-09T10:10:58-04:00",
-                    "position": 1,
-                    "updated_at": "2023-10-09T10:10:58-04:00",
-                    "product_id": 6832241901662,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_f44a9605-cd62-464d-b095-d45cdaa0d0d7.jpg?v=1696860658",
-                    "width": 3908,
-                    "height": 3908
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 6832241770590,
-            "title": "The Videographer Snowboard",
-            "handle": "the-videographer-snowboard",
-            "body_html": null,
-            "published_at": "2023-10-09T10:10:57-04:00",
-            "created_at": "2023-10-09T10:10:56-04:00",
-            "updated_at": "2024-10-26T08:37:15-04:00",
-            "vendor": "Quickstart (e2b0e499)",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 40097622360158,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "885.95",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 6832241770590,
-                    "created_at": "2023-10-09T10:10:57-04:00",
-                    "updated_at": "2024-10-26T08:37:15-04:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 29962110533726,
-                    "created_at": "2023-10-09T10:10:56-04:00",
-                    "position": 1,
-                    "updated_at": "2023-10-09T10:10:58-04:00",
-                    "product_id": 6832241770590,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/Main.jpg?v=1696860658",
-                    "width": 1600,
-                    "height": 1600
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
+          "id": 41243211399262,
+          "title": "Medium / Blue",
+          "option1": "Medium",
+          "option2": "Blue",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "749.95",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 6832242294878,
+          "created_at": "2024-10-26T10:21:26-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
         }
-    ]
+      ],
+      "images": [
+        {
+          "id": 29962110795870,
+          "created_at": "2023-10-09T10:11:02-04:00",
+          "position": 1,
+          "updated_at": "2023-10-09T10:11:02-04:00",
+          "product_id": 6832242294878,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1696860662",
+          "width": 1600,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Medium"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Blue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6832242229342,
+      "title": "The Collection Snowboard: Oxygen",
+      "handle": "the-collection-snowboard-oxygen",
+      "body_html": null,
+      "published_at": "2023-10-09T10:11:03-04:00",
+      "created_at": "2023-10-09T10:10:59-04:00",
+      "updated_at": "2024-10-26T10:21:49-04:00",
+      "vendor": "Hydrogen Vendor",
+      "product_type": "",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "variants": [
+        {
+          "id": 40097623015518,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1025.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 6832242229342,
+          "created_at": "2023-10-09T10:10:59-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 29962110664798,
+          "created_at": "2023-10-09T10:10:59-04:00",
+          "position": 1,
+          "updated_at": "2023-10-09T10:10:59-04:00",
+          "product_id": 6832242229342,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1696860659",
+          "width": 1600,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6832241868894,
+      "title": "The Collection Snowboard: Hydrogen",
+      "handle": "the-collection-snowboard-hydrogen",
+      "body_html": null,
+      "published_at": "2023-10-09T10:11:02-04:00",
+      "created_at": "2023-10-09T10:10:58-04:00",
+      "updated_at": "2024-10-26T10:21:49-04:00",
+      "vendor": "Hydrogen Vendor",
+      "product_type": "",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "variants": [
+        {
+          "id": 40441553813598,
+          "title": "white / Medium",
+          "option1": "white",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30328475615326,
+            "product_id": 6832241868894,
+            "position": 3,
+            "created_at": "2024-03-05T06:56:42-05:00",
+            "updated_at": "2024-03-05T06:56:44-05:00",
+            "alt": null,
+            "width": 1000,
+            "height": 1000,
+            "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-White-Base_2048x2048_884474df-9d63-42fd-8b1c-1ffea2866abf.jpg?v=1709639804",
+            "variant_ids": [40441553813598]
+          },
+          "available": true,
+          "price": "600.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 6832241868894,
+          "created_at": "2024-03-05T06:57:34-05:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 40441553846366,
+          "title": "orange / Medium",
+          "option1": "orange",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30328475648094,
+            "product_id": 6832241868894,
+            "position": 2,
+            "created_at": "2024-03-05T06:56:42-05:00",
+            "updated_at": "2024-03-05T06:56:44-05:00",
+            "alt": null,
+            "width": 1000,
+            "height": 1000,
+            "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-Orange-Base_2048x2048_33650e65-76b3-4c7a-8b43-663fe2a7192a.jpg?v=1709639804",
+            "variant_ids": [40441553846366]
+          },
+          "available": false,
+          "price": "600.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 6832241868894,
+          "created_at": "2024-03-05T06:57:34-05:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 40441553879134,
+          "title": "purple / Medium",
+          "option1": "purple",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 29962110271582,
+            "product_id": 6832241868894,
+            "position": 1,
+            "created_at": "2023-10-09T10:10:58-04:00",
+            "updated_at": "2023-10-09T10:10:58-04:00",
+            "alt": "Top and bottom view of a snowboard. The top view shows stylized hydrogen bonds and the bottom view\n        shows “H2” in a brush script typeface.",
+            "width": 1600,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1696860658",
+            "variant_ids": [40441553879134]
+          },
+          "available": false,
+          "price": "600.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 6832241868894,
+          "created_at": "2024-03-05T06:57:34-05:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 29962110271582,
+          "created_at": "2023-10-09T10:10:58-04:00",
+          "position": 1,
+          "updated_at": "2023-10-09T10:10:58-04:00",
+          "product_id": 6832241868894,
+          "variant_ids": [40441553879134],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1696860658",
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "id": 30328475648094,
+          "created_at": "2024-03-05T06:56:42-05:00",
+          "position": 2,
+          "updated_at": "2024-03-05T06:56:44-05:00",
+          "product_id": 6832241868894,
+          "variant_ids": [40441553846366],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-Orange-Base_2048x2048_33650e65-76b3-4c7a-8b43-663fe2a7192a.jpg?v=1709639804",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 30328475615326,
+          "created_at": "2024-03-05T06:56:42-05:00",
+          "position": 3,
+          "updated_at": "2024-03-05T06:56:44-05:00",
+          "product_id": 6832241868894,
+          "variant_ids": [40441553813598],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-White-Base_2048x2048_884474df-9d63-42fd-8b1c-1ffea2866abf.jpg?v=1709639804",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "white",
+            "orange",
+            "purple"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Medium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6832242196574,
+      "title": "The 3p Fulfilled Snowboard",
+      "handle": "the-3p-fulfilled-snowboard",
+      "body_html": null,
+      "published_at": "2023-10-09T10:11:00-04:00",
+      "created_at": "2023-10-09T10:10:59-04:00",
+      "updated_at": "2024-10-26T10:21:49-04:00",
+      "vendor": "Quickstart (e2b0e499)",
+      "product_type": "",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "variants": [
+        {
+          "id": 41243206516830,
+          "title": "Red",
+          "option1": "Red",
+          "option2": null,
+          "option3": null,
+          "sku": "sku-hosted-1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2629.95",
+          "grams": 0,
+          "compare_at_price": "2890.00",
+          "position": 2,
+          "product_id": 6832242196574,
+          "created_at": "2024-10-26T10:12:46-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243206549598,
+          "title": "Black",
+          "option1": "Black",
+          "option2": null,
+          "option3": null,
+          "sku": "sku-hosted-2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "2629.95",
+          "grams": 0,
+          "compare_at_price": "2890.00",
+          "position": 3,
+          "product_id": 6832242196574,
+          "created_at": "2024-10-26T10:12:46-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243206582366,
+          "title": "Green",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "sku": "sku-hosted-3",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "2629.95",
+          "grams": 0,
+          "compare_at_price": "2890.00",
+          "position": 4,
+          "product_id": 6832242196574,
+          "created_at": "2024-10-26T10:12:46-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243206615134,
+          "title": "Blue",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "sku": "sku-hosted-4",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "2629.95",
+          "grams": 0,
+          "compare_at_price": "2890.00",
+          "position": 5,
+          "product_id": 6832242196574,
+          "created_at": "2024-10-26T10:12:46-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 29962110632030,
+          "created_at": "2023-10-09T10:10:59-04:00",
+          "position": 1,
+          "updated_at": "2023-10-09T10:10:59-04:00",
+          "product_id": 6832242196574,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1696860659",
+          "width": 1600,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Red",
+            "Black",
+            "Green",
+            "Blue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6832242163806,
+      "title": "The Multi-managed Snowboard",
+      "handle": "the-multi-managed-snowboard",
+      "body_html": "\u003Cspan\u003EThe 2025 GNU B-Nice makes that learning curve a learning LAUNCH, featuring the original banana shape that’s great for learning, jibbing, and floating catch-free\u003C/span\u003E",
+      "published_at": "2023-10-09T10:10:59-04:00",
+      "created_at": "2023-10-09T10:10:59-04:00",
+      "updated_at": "2024-10-26T10:21:49-04:00",
+      "vendor": "Multi-managed Vendor",
+      "product_type": "",
+      "tags": [
+        "Premium",
+        "Snow",
+        "Snowboard",
+        "Sport",
+        "Winter"
+      ],
+      "variants": [
+        {
+          "id": 41243208122462,
+          "title": "Small / Black",
+          "option1": "Small",
+          "option2": "Black",
+          "option3": null,
+          "sku": "sku-managed-1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "629.95",
+          "grams": 0,
+          "compare_at_price": "902.00",
+          "position": 2,
+          "product_id": 6832242163806,
+          "created_at": "2024-10-26T10:16:40-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243208155230,
+          "title": "Small / White",
+          "option1": "Small",
+          "option2": "White",
+          "option3": null,
+          "sku": "sku-managed-2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "629.95",
+          "grams": 0,
+          "compare_at_price": "902.00",
+          "position": 3,
+          "product_id": 6832242163806,
+          "created_at": "2024-10-26T10:16:40-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243208187998,
+          "title": "Small / Red",
+          "option1": "Small",
+          "option2": "Red",
+          "option3": null,
+          "sku": "sku-managed-3",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "629.95",
+          "grams": 0,
+          "compare_at_price": "902.00",
+          "position": 4,
+          "product_id": 6832242163806,
+          "created_at": "2024-10-26T10:16:40-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243208220766,
+          "title": "Small / Blue",
+          "option1": "Small",
+          "option2": "Blue",
+          "option3": null,
+          "sku": "sku-managed-4",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "629.95",
+          "grams": 0,
+          "compare_at_price": "902.00",
+          "position": 5,
+          "product_id": 6832242163806,
+          "created_at": "2024-10-26T10:16:40-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243208253534,
+          "title": "Small / Green",
+          "option1": "Small",
+          "option2": "Green",
+          "option3": null,
+          "sku": "sku-managed-5",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "629.95",
+          "grams": 0,
+          "compare_at_price": "902.00",
+          "position": 6,
+          "product_id": 6832242163806,
+          "created_at": "2024-10-26T10:16:40-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243208286302,
+          "title": "Medium / Black",
+          "option1": "Medium",
+          "option2": "Black",
+          "option3": null,
+          "sku": "sku-managed-6",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "629.95",
+          "grams": 0,
+          "compare_at_price": "902.00",
+          "position": 7,
+          "product_id": 6832242163806,
+          "created_at": "2024-10-26T10:16:40-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243208319070,
+          "title": "Medium / White",
+          "option1": "Medium",
+          "option2": "White",
+          "option3": null,
+          "sku": "sku-managed-7",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "629.95",
+          "grams": 0,
+          "compare_at_price": "902.00",
+          "position": 8,
+          "product_id": 6832242163806,
+          "created_at": "2024-10-26T10:16:40-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243208351838,
+          "title": "Medium / Red",
+          "option1": "Medium",
+          "option2": "Red",
+          "option3": null,
+          "sku": "sku-managed-8",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "629.95",
+          "grams": 0,
+          "compare_at_price": "902.00",
+          "position": 9,
+          "product_id": 6832242163806,
+          "created_at": "2024-10-26T10:16:40-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243208384606,
+          "title": "Medium / Blue",
+          "option1": "Medium",
+          "option2": "Blue",
+          "option3": null,
+          "sku": "sku-managed-9",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "629.95",
+          "grams": 0,
+          "compare_at_price": "902.00",
+          "position": 10,
+          "product_id": 6832242163806,
+          "created_at": "2024-10-26T10:16:40-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243208417374,
+          "title": "Medium / Green",
+          "option1": "Medium",
+          "option2": "Green",
+          "option3": null,
+          "sku": "sku-managed-10",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "629.95",
+          "grams": 0,
+          "compare_at_price": "902.00",
+          "position": 11,
+          "product_id": 6832242163806,
+          "created_at": "2024-10-26T10:16:40-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 29962110599262,
+          "created_at": "2023-10-09T10:10:59-04:00",
+          "position": 1,
+          "updated_at": "2023-10-09T10:10:59-04:00",
+          "product_id": 6832242163806,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1696860659",
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "id": 30300550135902,
+          "created_at": "2024-02-24T03:45:06-05:00",
+          "position": 2,
+          "updated_at": "2024-02-24T03:45:07-05:00",
+          "product_id": 6832242163806,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-Orange-Base_2048x2048_39771e90-0b44-4722-b524-e2a8cc86e484.jpg?v=1708764307",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 30300550168670,
+          "created_at": "2024-02-24T03:45:11-05:00",
+          "position": 3,
+          "updated_at": "2024-02-24T03:45:13-05:00",
+          "product_id": 6832242163806,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/2024-2025-Gnu-B-Nice-Snowboard-White-Base_2048x2048_f6ce0f7c-b7ec-4e14-88be-5f9bdf1c5f3e.jpg?v=1708764313",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 30300550332510,
+          "created_at": "2024-02-24T03:45:16-05:00",
+          "position": 4,
+          "updated_at": "2024-02-24T03:45:17-05:00",
+          "product_id": 6832242163806,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/bnicecamber_2048x2048_561508b5-a51b-4550-a11a-4c495e098e75.jpg?v=1708764317",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Black",
+            "White",
+            "Red",
+            "Blue",
+            "Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6832242131038,
+      "title": "The Multi-location Snowboard",
+      "handle": "the-multi-location-snowboard",
+      "body_html": null,
+      "published_at": "2023-10-09T10:10:59-04:00",
+      "created_at": "2023-10-09T10:10:58-04:00",
+      "updated_at": "2024-10-26T10:21:49-04:00",
+      "vendor": "Quickstart (e2b0e499)",
+      "product_type": "",
+      "tags": [
+        "Premium",
+        "Snow",
+        "Snowboard",
+        "Sport",
+        "Winter"
+      ],
+      "variants": [
+        {
+          "id": 40097622917214,
+          "title": "Small / Red",
+          "option1": "Small",
+          "option2": "Red",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "729.95",
+          "grams": 0,
+          "compare_at_price": "870.00",
+          "position": 1,
+          "product_id": 6832242131038,
+          "created_at": "2023-10-09T10:10:59-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 29962110566494,
+          "created_at": "2023-10-09T10:10:59-04:00",
+          "position": 1,
+          "updated_at": "2023-10-09T10:10:59-04:00",
+          "product_id": 6832242131038,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg?v=1696860659",
+          "width": 1600,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Red"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6832242098270,
+      "title": "The Compare at Price Snowboard",
+      "handle": "the-compare-at-price-snowboard",
+      "body_html": null,
+      "published_at": "2023-10-09T10:10:59-04:00",
+      "created_at": "2023-10-09T10:10:58-04:00",
+      "updated_at": "2024-10-26T10:21:49-04:00",
+      "vendor": "Quickstart (e2b0e499)",
+      "product_type": "",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "variants": [
+        {
+          "id": 40097622884446,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "785.95",
+          "grams": 0,
+          "compare_at_price": "885.95",
+          "position": 1,
+          "product_id": 6832242098270,
+          "created_at": "2023-10-09T10:10:58-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 29962110500958,
+          "created_at": "2023-10-09T10:10:58-04:00",
+          "position": 1,
+          "updated_at": "2023-10-09T10:10:58-04:00",
+          "product_id": 6832242098270,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/snowboard_sky.png?v=1696860658",
+          "width": 3097,
+          "height": 3908
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6832242032734,
+      "title": "The Inventory Not Tracked Snowboard",
+      "handle": "the-inventory-not-tracked-snowboard",
+      "body_html": null,
+      "published_at": "2023-10-09T10:10:59-04:00",
+      "created_at": "2023-10-09T10:10:58-04:00",
+      "updated_at": "2024-10-26T10:21:49-04:00",
+      "vendor": "Quickstart (e2b0e499)",
+      "product_type": "",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "variants": [
+        {
+          "id": 41243206844510,
+          "title": "Black / Medium",
+          "option1": "Black",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "sku-untracked-1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "949.95",
+          "grams": 0,
+          "compare_at_price": "1032.00",
+          "position": 2,
+          "product_id": 6832242032734,
+          "created_at": "2024-10-26T10:14:02-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243206877278,
+          "title": "Red / Medium",
+          "option1": "Red",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "sku-untracked-2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "949.95",
+          "grams": 0,
+          "compare_at_price": "1032.00",
+          "position": 3,
+          "product_id": 6832242032734,
+          "created_at": "2024-10-26T10:14:02-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243206910046,
+          "title": "Green / Medium",
+          "option1": "Green",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "sku-untracked-3",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "949.95",
+          "grams": 0,
+          "compare_at_price": "1032.00",
+          "position": 4,
+          "product_id": 6832242032734,
+          "created_at": "2024-10-26T10:14:02-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243206942814,
+          "title": "Blue / Medium",
+          "option1": "Blue",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "sku-untracked-4",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "949.95",
+          "grams": 0,
+          "compare_at_price": "1032.00",
+          "position": 5,
+          "product_id": 6832242032734,
+          "created_at": "2024-10-26T10:14:02-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 29962110402654,
+          "created_at": "2023-10-09T10:10:58-04:00",
+          "position": 1,
+          "updated_at": "2023-10-09T10:10:58-04:00",
+          "product_id": 6832242032734,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/snowboard_purple_hydrogen.png?v=1696860658",
+          "width": 3097,
+          "height": 3908
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Black",
+            "Red",
+            "Green",
+            "Blue"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Medium"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6832241934430,
+      "title": "The Complete Snowboard",
+      "handle": "the-complete-snowboard",
+      "body_html": "This \u003Cb\u003EPREMIUM\u003C/b\u003E \u003Ci\u003Esnowboard\u003C/i\u003E is so \u003Cb\u003ESUPER\u003C/b\u003E\u003Ci\u003EDUPER\u003C/i\u003E awesome!",
+      "published_at": "2023-10-09T10:10:59-04:00",
+      "created_at": "2023-10-09T10:10:58-04:00",
+      "updated_at": "2024-10-26T10:21:49-04:00",
+      "vendor": "Snowboard Vendor",
+      "product_type": "snowboard",
+      "tags": [
+        "Premium",
+        "Snow",
+        "Snowboard",
+        "Sport",
+        "Winter"
+      ],
+      "variants": [
+        {
+          "id": 40097622491230,
+          "title": "Ice / Medium",
+          "option1": "Ice",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "699.95",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 6832241934430,
+          "created_at": "2023-10-09T10:10:58-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243210809438,
+          "title": "Ice / Large",
+          "option1": "Ice",
+          "option2": "Large",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "699.95",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 6832241934430,
+          "created_at": "2024-10-26T10:20:10-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 40097622556766,
+          "title": "Dawn / Medium",
+          "option1": "Dawn",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "699.95",
+          "grams": 4536,
+          "compare_at_price": "800.00",
+          "position": 3,
+          "product_id": 6832241934430,
+          "created_at": "2023-10-09T10:10:58-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243210842206,
+          "title": "Dawn / Large",
+          "option1": "Dawn",
+          "option2": "Large",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "699.95",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 6832241934430,
+          "created_at": "2024-10-26T10:20:10-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 40097622622302,
+          "title": "Powder / Medium",
+          "option1": "Powder",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "699.95",
+          "grams": 4536,
+          "compare_at_price": "849.00",
+          "position": 5,
+          "product_id": 6832241934430,
+          "created_at": "2023-10-09T10:10:58-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243210874974,
+          "title": "Powder / Large",
+          "option1": "Powder",
+          "option2": "Large",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "699.95",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 6,
+          "product_id": 6832241934430,
+          "created_at": "2024-10-26T10:20:10-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 40097622655070,
+          "title": "Electric / Medium",
+          "option1": "Electric",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "699.95",
+          "grams": 4536,
+          "compare_at_price": "928.00",
+          "position": 7,
+          "product_id": 6832241934430,
+          "created_at": "2023-10-09T10:10:58-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243210907742,
+          "title": "Electric / Large",
+          "option1": "Electric",
+          "option2": "Large",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "699.95",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 8,
+          "product_id": 6832241934430,
+          "created_at": "2024-10-26T10:20:10-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 40097622687838,
+          "title": "Sunset / Medium",
+          "option1": "Sunset",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "699.95",
+          "grams": 4536,
+          "compare_at_price": "715.00",
+          "position": 9,
+          "product_id": 6832241934430,
+          "created_at": "2023-10-09T10:10:58-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243210940510,
+          "title": "Sunset / Large",
+          "option1": "Sunset",
+          "option2": "Large",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "699.95",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 10,
+          "product_id": 6832241934430,
+          "created_at": "2024-10-26T10:20:10-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 29962110337118,
+          "created_at": "2023-10-09T10:10:58-04:00",
+          "position": 1,
+          "updated_at": "2023-10-09T10:10:58-04:00",
+          "product_id": 6832241934430,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1696860658",
+          "width": 1600,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Ice",
+            "Dawn",
+            "Powder",
+            "Electric",
+            "Sunset"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Medium",
+            "Large"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6832241901662,
+      "title": "The Out of Stock Snowboard",
+      "handle": "the-out-of-stock-snowboard",
+      "body_html": null,
+      "published_at": "2023-10-09T10:10:58-04:00",
+      "created_at": "2023-10-09T10:10:58-04:00",
+      "updated_at": "2024-10-26T10:21:49-04:00",
+      "vendor": "Quickstart (e2b0e499)",
+      "product_type": "",
+      "tags": [
+        "Accessory",
+        "Sport",
+        "Winter"
+      ],
+      "variants": [
+        {
+          "id": 41243207598174,
+          "title": "Small / Purple",
+          "option1": "Small",
+          "option2": "Purple",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 2,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207630942,
+          "title": "Small / White",
+          "option1": "Small",
+          "option2": "White",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 3,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207663710,
+          "title": "Small / Green",
+          "option1": "Small",
+          "option2": "Green",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 4,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207696478,
+          "title": "Small / Blue",
+          "option1": "Small",
+          "option2": "Blue",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 5,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207729246,
+          "title": "Medium / Purple",
+          "option1": "Medium",
+          "option2": "Purple",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 6,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207762014,
+          "title": "Medium / White",
+          "option1": "Medium",
+          "option2": "White",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 7,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207794782,
+          "title": "Medium / Green",
+          "option1": "Medium",
+          "option2": "Green",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 8,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207827550,
+          "title": "Medium / Blue",
+          "option1": "Medium",
+          "option2": "Blue",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 9,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207860318,
+          "title": "Large / Purple",
+          "option1": "Large",
+          "option2": "Purple",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 10,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207893086,
+          "title": "Large / White",
+          "option1": "Large",
+          "option2": "White",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 11,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207925854,
+          "title": "Large / Green",
+          "option1": "Large",
+          "option2": "Green",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 12,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207958622,
+          "title": "Large / Blue",
+          "option1": "Large",
+          "option2": "Blue",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": "1080.00",
+          "position": 13,
+          "product_id": 6832241901662,
+          "created_at": "2024-10-26T10:15:49-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 29962110304350,
+          "created_at": "2023-10-09T10:10:58-04:00",
+          "position": 1,
+          "updated_at": "2023-10-09T10:10:58-04:00",
+          "product_id": 6832241901662,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_f44a9605-cd62-464d-b095-d45cdaa0d0d7.jpg?v=1696860658",
+          "width": 3908,
+          "height": 3908
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        },
+        {
+          "name": "Black",
+          "position": 2,
+          "values": [
+            "Purple",
+            "White",
+            "Green",
+            "Blue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6832241770590,
+      "title": "The Videographer Snowboard",
+      "handle": "the-videographer-snowboard",
+      "body_html": null,
+      "published_at": "2023-10-09T10:10:57-04:00",
+      "created_at": "2023-10-09T10:10:56-04:00",
+      "updated_at": "2024-10-26T10:21:49-04:00",
+      "vendor": "Quickstart (e2b0e499)",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 41243207041118,
+          "title": "Black / Medium",
+          "option1": "Black",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 6832241770590,
+          "created_at": "2024-10-26T10:14:30-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207270494,
+          "title": "Black / Large",
+          "option1": "Black",
+          "option2": "Large",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 6832241770590,
+          "created_at": "2024-10-26T10:14:52-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207073886,
+          "title": "Red / Medium",
+          "option1": "Red",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 6832241770590,
+          "created_at": "2024-10-26T10:14:30-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207303262,
+          "title": "Red / Large",
+          "option1": "Red",
+          "option2": "Large",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 6832241770590,
+          "created_at": "2024-10-26T10:14:52-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207106654,
+          "title": "Blue / Medium",
+          "option1": "Blue",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 6832241770590,
+          "created_at": "2024-10-26T10:14:30-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207336030,
+          "title": "Blue / Large",
+          "option1": "Blue",
+          "option2": "Large",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 6,
+          "product_id": 6832241770590,
+          "created_at": "2024-10-26T10:14:52-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207139422,
+          "title": "Green / Medium",
+          "option1": "Green",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 7,
+          "product_id": 6832241770590,
+          "created_at": "2024-10-26T10:14:30-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207368798,
+          "title": "Green / Large",
+          "option1": "Green",
+          "option2": "Large",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 8,
+          "product_id": 6832241770590,
+          "created_at": "2024-10-26T10:14:52-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207172190,
+          "title": "Purple / Medium",
+          "option1": "Purple",
+          "option2": "Medium",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 9,
+          "product_id": 6832241770590,
+          "created_at": "2024-10-26T10:14:30-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        },
+        {
+          "id": 41243207401566,
+          "title": "Purple / Large",
+          "option1": "Purple",
+          "option2": "Large",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "885.95",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 10,
+          "product_id": 6832241770590,
+          "created_at": "2024-10-26T10:14:52-04:00",
+          "updated_at": "2024-10-26T10:21:49-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 29962110533726,
+          "created_at": "2023-10-09T10:10:56-04:00",
+          "position": 1,
+          "updated_at": "2023-10-09T10:10:58-04:00",
+          "product_id": 6832241770590,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/Main.jpg?v=1696860658",
+          "width": 1600,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Black",
+            "Red",
+            "Blue",
+            "Green",
+            "Purple"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Medium",
+            "Large"
+          ]
+        }
+      ]
+    }
+  ]
 }
